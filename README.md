@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arash Zarghami</h1>
 <h3 align="center">A curious person</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/ArashZrg/ArashZrg/assets/144258384/725ae582-feba-41df-a82e-3b8c8124fb64)
+">
+
 - 🌱 I’m currently learning **Python , Django , Django Rest Framework**
 
 - 👀 I’m interested in **in back-end development and maybe one day game development !**
