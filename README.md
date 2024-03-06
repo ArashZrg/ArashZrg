@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arash Zarghami</h1>
 <h3 align="center">A curious person</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dpeGVvMnptOXhmOGV4NXoxeDM2cWJ4MjFwYnp1YWFmYWxkNDB5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dpeGVvMnptOXhmOGV4NXoxeDM2cWJ4MjFwYnp1YWFmYWxkNDB5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 - 🌱 I’m currently learning **Python , Django , Django Rest Framework**
 
