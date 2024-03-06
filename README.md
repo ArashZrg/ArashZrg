@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash Zarghami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A curious person</h3>
 
 - 🌱 I’m currently learning **Python , Django , Django Rest Framework**
 
