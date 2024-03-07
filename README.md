@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="300" length="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2twbTRkdTAyczkyNnJ2NHdnbW85MGFnNmFwbnVoaHcwZmlrdHRnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"> 
 <h1 align="center">Hi 👋, I'm Arash Zarghami</h1>
 <h3 align="center">A curious person</h3>
 
