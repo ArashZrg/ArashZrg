@@ -3,11 +3,11 @@
 <h3 align="center">A curious person</h3>
 
 
-- 🌱 I’m currently learning **Python , Django , Django Rest Framework**
+- 🌱 I’m currently learning **Html , Css , JavaScript , React , Bootstrap**
 
-- 👀 I’m interested in **in back-end development and maybe one day game development !**
+- 👀 I’m interested in **in Front-End development**
 
-- 📫 How to reach me **arash.zarghami.9889@gmail.com**
+- 📫 How to reach me **eng.ar.zarghami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
