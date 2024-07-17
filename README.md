@@ -2,9 +2,8 @@
 <h1 align="center" >Hello I'm Arash Zarghami</h1>
 <h3 align="center">Just a curious person</h3>
 
-
+<b>I'm currently learning this Topics :</b>
 <ul>
-      <b>I'm currently learning this Topics :</b>
       <li>HTML</li>
       <li>Css</li>
       <li>JavaScript</li>
