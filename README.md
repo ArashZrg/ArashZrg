@@ -4,7 +4,7 @@
 
 
 <ul>
-      I'm currently learning this Topics :
+      <b>I'm currently learning this Topics :</b>
       <li>HTML</li>
       <li>Css</li>
       <li>JavaScript</li>
