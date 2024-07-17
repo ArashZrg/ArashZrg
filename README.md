@@ -18,6 +18,7 @@ Now that I've entered the realm of Front-End, it's like an art form to me.
 Working with different colors, styles, and layouts in a way that brings joy to the user is incredibly satisfying. 
 I feel that Front-End is exactly where I belong.
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM2cGVlZ3E4cnM0cGRqYnZkcnlmN2JvOXRlN3EzbWxwYTU1ZjIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M52wyuahvQfJK/giphy.gif" alt="art" height="100" width="100" />
+</br>
 
 <h1>How to reach me : </h1> 
 Arash.Zarghami.9889@gmail.com
