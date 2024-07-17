@@ -2,7 +2,7 @@
 <h1 align="center" >Hello I'm Arash Zarghami</h1>
 <h3 align="center">Just a curious person</h3>
 
-<b>I'm currently learning this Topics :</b>
+<h1>I'm currently learning this Topics</h1>
 <ul>
       <li>HTML</li>
       <li>Css</li>
@@ -14,7 +14,7 @@
 <h1>My Passion for Front-End Development</h1>
 Before diving into the world of Front-End development, I worked on the Back-End with Django. However, I started to feel a bit bored and unchallenged. Now that I've entered the realm of Front-End, it's like an art form to me. Working with different colors, styles, and layouts in a way that brings joy to the user is incredibly satisfying. I feel that Front-End is exactly where I belong.
 
-- 📫 How to reach me **eng.ar.zarghami@gmail.com**
+<h1>How to reach me</h1> **Arash.Zarghami.9889@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
