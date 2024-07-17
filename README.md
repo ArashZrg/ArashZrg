@@ -10,8 +10,9 @@
       <li>TypeScript</li>
       <li>React</li>
     </ul>
-
-- 👀 I’m interested in **in Front-End development**
+    
+<h1>My Passion for Front-End Development</h1>
+Before diving into the world of Front-End development, I worked on the Back-End with Django. However, I started to feel a bit bored and unchallenged. Now that I've entered the realm of Front-End, it's like an art form to me. Working with different colors, styles, and layouts in a way that brings joy to the user is incredibly satisfying. I feel that Front-End is exactly where I belong.
 
 - 📫 How to reach me **eng.ar.zarghami@gmail.com**
 
