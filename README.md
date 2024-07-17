@@ -1,9 +1,16 @@
 <img align="center" alt="coding" width="1000" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JhdzI4aXFlb2M3aXV1eG5pamN3anN2b3Q2ODY5OHA5Y2VlZHRoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<h1 align="center" style="color:red;">Hi 👋, I'm Arash Zarghami</h1>
-<h3 align="center">A curious person</h3>
+<h1 align="center" >Hello I'm Arash Zarghami</h1>
+<h3 align="center">Just a curious person</h3>
 
 
-- 🌱 I’m currently learning **Html , Css , JavaScript , React , Bootstrap**
+<ul>
+      I'm currently learning this Topics :
+      <li>HTML</li>
+      <li>Css</li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>React</li>
+    </ul>
 
 - 👀 I’m interested in **in Front-End development**
 
