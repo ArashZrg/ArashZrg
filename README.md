@@ -12,7 +12,7 @@
     </ul>
     
 <h1>My Passion for Front-End Development</h1>
-Before diving into the world of Front-End development, I worked on the Back-End with Django. However, I started to feel a bit bored and unchallenged. Now that I've entered the realm of Front-End, it's like an art form to me. Working with different colors, styles, and layouts in a way that brings joy to the user is incredibly satisfying. I feel that Front-End is exactly where I belong.<img align="right" src:"https://giphy.com/clips/art-illustration-cartoon-Cl2hQeK6vYDt3CoMm6"></img>
+Before diving into the world of Front-End development, I worked on the Back-End with Django. However, I started to feel a bit bored and unchallenged. Now that I've entered the realm of Front-End, it's like an art form to me. Working with different colors, styles, and layouts in a way that brings joy to the user is incredibly satisfying. I feel that Front-End is exactly where I belong.<img align="center" src="https://giphy.com/clips/art-illustration-cartoon-Cl2hQeK6vYDt3CoMm6" alt="arashzrg" height="30" width="40" />
 
 <h1>How to reach me : </h1> 
 Arash.Zarghami.9889@gmail.com
