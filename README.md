@@ -9,6 +9,7 @@
       <li>JavaScript</li>
       <li>TypeScript</li>
       <li>React</li>
+      <li>TailWind</li>
     </ul>
     
 <h1>My Passion for Front-End Development</h1>
