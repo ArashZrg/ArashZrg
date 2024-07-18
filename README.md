@@ -1,4 +1,4 @@
-<b>[![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArashZrg&theme=nautilus&data=followers,repositories,commits)](https://github.com/ArashZrg/)</b>
+<b align="center">[![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArashZrg&theme=nautilus&data=followers,repositories,commits)](https://github.com/ArashZrg/)</b>
 <h3 align="center">Just a curious person</h3>
 
 <h1>I'm currently learning this Topics</h1>
