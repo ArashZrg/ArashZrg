@@ -1,6 +1,6 @@
 <b align="center">[![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArashZrg&theme=nautilus&data=followers,repositories,commits)](https://github.com/ArashZrg/)</b>
 </div><h1 align="center" >Hello I'm Arash Zarghami</h1>
-<h3 align="center">Just a curious person</h3>
+
 
 <h1>I'm currently learning this Topics</h1>
 <ul>
