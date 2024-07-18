@@ -35,6 +35,5 @@ I feel that Front-End is exactly where I belong.
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arash.zarghami.9889@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arash-zarghami-3712622b9/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Arz18)
-[![Instagram](https://img.shields.io/badge/-Instagram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.instagram.com/arashzrg/?next=%2Fexplore%2F)
 
 
