@@ -1,5 +1,8 @@
-<div align="center">[![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArashZrg&theme=nautilus&data=followers,repositories,commits)](https://github.com/ArashZrg/)</div>
-<h1 align="center" >Hello I'm Arash Zarghami</h1>
+<div style="text-align: center;">
+  <a href="https://github.com/ArashZrg/" title="Visit ArashZrg's GitHub profile">
+    [![GitHubWidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ArashZrg&theme=nautilus&data=followers,repositories,commits)]
+  </a>
+</div><h1 align="center" >Hello I'm Arash Zarghami</h1>
 <h3 align="center">Just a curious person</h3>
 
 <h1>I'm currently learning this Topics</h1>
