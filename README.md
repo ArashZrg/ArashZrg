@@ -1,4 +1,4 @@
-![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJrNGF3eGx1NHBia2V6NXFndDMxY2l6dGFtbnEwajJ0aWVmdTh4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJrNGF3eGx1NHBia2V6NXFndDMxY2l6dGFtbnEwajJ0aWVmdTh4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 </div><h1 align="center" >Hello I'm Arash Zarghami</h1>
 
 
